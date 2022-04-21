@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gautam
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m interested in Artificial Intelligence and Machine learning
+- 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
